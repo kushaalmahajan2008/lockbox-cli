@@ -201,6 +201,11 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
+
+# LockBox sensitive files
+vault.enc
+secret.key
+
 # Marimo
 marimo/_static/
 marimo/_lsp/
